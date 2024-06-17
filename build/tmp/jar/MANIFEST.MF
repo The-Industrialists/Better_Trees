@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: minecraft_mod
+Implementation-Version: 0.0.1
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2024-06-17T14:59:59-0700
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

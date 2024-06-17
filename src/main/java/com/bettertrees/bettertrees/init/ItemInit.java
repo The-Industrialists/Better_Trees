@@ -18,7 +18,7 @@ public class ItemInit {
 
 
     public static class ModCreativeTab extends CreativeModeTab {
-        public static final ModCreativeTab instance = new ModCreativeTab(CreativeModeTab.TABS.length, "BetterTrees");
+        public static final ModCreativeTab instance = new ModCreativeTab(CreativeModeTab.TABS.length, "bettertrees");
         private ModCreativeTab(int index, String label) {
             super(index, label);
         }

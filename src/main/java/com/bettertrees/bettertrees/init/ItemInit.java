@@ -28,4 +28,16 @@ public class ItemInit {
             return new ItemStack(MARSHMELLOW.get());
         }
     }
+
+    public static class TreeTAB extends CreativeModeTab {
+        public static final ModCreativeTab instance = new ModCreativeTab(CreativeModeTab.TABS.length, "BetterTreesTab");
+        private TreeTAB(int index, String label) {
+            super(index, label);
+        }
+
+        @Override
+        public ItemStack makeIcon() {
+            return new ItemStack(MARSHMELLOW.get());
+        }
+    }
 }

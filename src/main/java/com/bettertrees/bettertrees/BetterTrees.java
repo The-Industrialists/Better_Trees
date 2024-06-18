@@ -1,7 +1,7 @@
 package com.bettertrees.bettertrees;
 
 
-import com.bettertrees.bettertrees.init.ItemInit;
+import com.bettertrees.bettertrees.item.ModItems;
 import com.mojang.logging.LogUtils;
 
 
@@ -28,7 +28,7 @@ public class BetterTrees
         final IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         modEventBus.addListener(this::setup);
-        ItemInit.ITEMS.register(modEventBus);
+        ModItems.ITEMS.register(modEventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
     }

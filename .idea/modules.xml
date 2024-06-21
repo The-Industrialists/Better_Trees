@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Better_Trees.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Better_Trees.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Better_Trees.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Better_Trees.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/minecraft_mod.main.iml" filepath="$PROJECT_DIR$/.idea/modules/minecraft_mod.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/minecraft_mod.test.iml" filepath="$PROJECT_DIR$/.idea/modules/minecraft_mod.test.iml" />
     </modules>

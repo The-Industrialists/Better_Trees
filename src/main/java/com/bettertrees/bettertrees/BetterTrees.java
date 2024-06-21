@@ -1,6 +1,7 @@
 package com.bettertrees.bettertrees;
 
 
+import com.bettertrees.bettertrees.block.ModBlocks;
 import com.bettertrees.bettertrees.item.ModItems;
 import com.mojang.logging.LogUtils;
 
@@ -29,8 +30,11 @@ public class BetterTrees
 
         modEventBus.addListener(this::setup);
         ModItems.ITEMS.register(modEventBus);
+        ModBlocks.BLOCKS.register(modEventBus);
+
 
         MinecraftForge.EVENT_BUS.register(this);
+
     }
 
 

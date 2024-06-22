@@ -22,7 +22,7 @@ public class ItemInit {
     public static final RegistryObject<Item> RICEBOWL = ITEMS.register("rice_bowl",
             () -> new Item(new Item.Properties().tab(ItemInit.ModCreativeTab.BETTERTREES)));
 
-    public static final RegistryObject<Item> RICE = ITEMS.register("rice",
+    public static final RegistryObject<Item> RICEITEM = ITEMS.register("rice",
             () -> new Item(new Item.Properties().tab(ItemInit.ModCreativeTab.BETTERTREES)));
 
 

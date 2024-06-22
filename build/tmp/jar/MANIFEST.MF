@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
-Implementation-Title: minecraft_mod
-Implementation-Version: 0.0.1
-Specification-Vendor: examplemodsareus
 Specification-Title: examplemod
-Implementation-Timestamp: 2024-06-17T14:59:59-0700
+Specification-Vendor: examplemodsareus
 Specification-Version: 1
+Implementation-Title: Better_Trees
+Implementation-Version: 0.0.2
 Implementation-Vendor: examplemodsareus
+Implementation-Timestamp: 2024-06-22T11:10:57-0700
 

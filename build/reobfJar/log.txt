@@ -1,5 +1,5 @@
-Java Launcher: /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java
-Arguments: '--in-jar, /Users/ariv/Documents/minecraft_mod/build/libs/bettertrees-0.0.1.jar, --out-jar, /Users/ariv/Documents/minecraft_mod/build/reobfJar/output.jar, --srg-in, /Users/ariv/Documents/minecraft_mod/build/createMcpToSrg/output.tsrg, --live'
+Java Launcher: /Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java
+Arguments: '--in-jar, /Users/ariv/Documents/Better_Trees/build/libs/bettertrees-0.0.2.jar, --out-jar, /Users/ariv/Documents/Better_Trees/build/reobfJar/output.jar, --srg-in, /Users/ariv/Documents/Better_Trees/build/createMcpToSrg/output.tsrg, --live'
 Classpath:
  - /Users/ariv/.gradle/caches/forge_gradle/maven_downloader/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0-shaded.jar
  - /Users/ariv/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.18.2-40.2.0_mapped_official_1.18.2/forge-1.18.2-40.2.0_mapped_official_1.18.2-recomp.jar
@@ -84,7 +84,7 @@ Classpath:
  - /Users/ariv/.gradle/caches/modules-2/files-2.1/org.antlr/antlr-runtime/3.5.2/cd9cd41361c155f3af0f653009dcecb08d8b4afd/antlr-runtime-3.5.2.jar
  - /Users/ariv/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.3/457216e8e6578099ae63667bb1e4439235892028/org.abego.treelayout.core-1.0.3.jar
  - /Users/ariv/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.json/1.0.4/3178f73569fd7a1e5ffc464e680f7a8cc784b85a/javax.json-1.0.4.jar
-Working directory: /Users/ariv/Documents/minecraft_mod/build/reobfJar
+Working directory: /Users/ariv/Documents/Better_Trees/build/reobfJar
 Main class: net.md_5.specialsource.SpecialSource
 ====================================
 Loading mappings
@@ -96,14 +96,14 @@ Loading mappings... 40%
 Loading mappings... 50%
 0 packages, 6399 classes, 28861 fields, 53847 methods
 Remapping final jar
-Remapping jar...  5%
-Remapping jar... 14%
-Remapping jar... 24%
-Remapping jar... 33%
-Remapping jar... 43%
-Remapping jar... 52%
-Remapping jar... 62%
+Remapping jar...  2%
+Remapping jar... 10%
+Remapping jar... 21%
+Remapping jar... 31%
+Remapping jar... 42%
+Remapping jar... 50%
+Remapping jar... 60%
 Remapping jar... 71%
 Remapping jar... 81%
-Remapping jar... 90%
+Remapping jar... 92%
 Remapping jar... 100%

@@ -25,6 +25,10 @@ public class ItemInit {
     public static final RegistryObject<Item> RICEITEM = ITEMS.register("rice",
             () -> new Item(new Item.Properties().tab(ItemInit.ModCreativeTab.BETTERTREES)));
 
+    public static final RegistryObject<Item> MARSHMELLOWBOMB = ITEMS.register("marshmellow_bomb",
+            () -> new Item(new Item.Properties().tab(ItemInit.ModCreativeTab.BETTERTREES)));
+
+
 
 
     public static class ModCreativeTab extends CreativeModeTab {

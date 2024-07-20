@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Specification-Title: examplemod
-Specification-Vendor: examplemodsareus
-Specification-Version: 1
-Implementation-Title: Better_Trees
-Implementation-Version: 0.0.2
-Implementation-Vendor: examplemodsareus
-Implementation-Timestamp: 2024-06-22T11:10:57-0700
-

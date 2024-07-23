@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "bettertrees:marshmellow_block"
+    "bettertrees:marshmellow_block",
+    "bettertrees:rice_block"
   ]
 }

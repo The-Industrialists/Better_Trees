@@ -8,5 +8,4 @@ The mod is in very early alpha or basically indev so commits and new content are
 
 Made by The Industrialists
 
-
-Discord server: https://discord.gg/mEpm8FqPTk
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/mEpm8FqPTk)](https://discord.gg/mEpm8FqPTk)

@@ -8,5 +8,4 @@ The mod is in very early alpha or basically indev so commits and new content are
 
 Made by The Industrialists
 
-
-Discord server: https://discord.gg/mEpm8FqPTk
+<p><a href="https://discord.gg/mEpm8FqPTk" rel="nofollow"><img src="https://img.shields.io/discord/391020510269669376.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord&color=17cf48" alt="Discord"/></a></p>

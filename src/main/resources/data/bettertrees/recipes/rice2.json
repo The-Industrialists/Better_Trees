@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bettertrees:rice_clump"
+    }
+  ],
+  "result": {
+    "item": "bettertrees:rice",
+    "count": 9
+  }
+}

@@ -3,15 +3,15 @@
   "pattern": [
     "###",
     "###",
-    "###"
+    "### "
   ],
   "key": {
     "#": {
-      "item": "bettertrees:rice_ball"
+      "item": "bettertrees:rice_clump"
     }
 
   },
   "result": {
-    "item": "bettertrees:rice_block"
+    "item": "bettertrees:rice_ball"
   }
 }

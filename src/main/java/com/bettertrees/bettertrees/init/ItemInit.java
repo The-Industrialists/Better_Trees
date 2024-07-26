@@ -28,6 +28,11 @@ public class ItemInit {
     public static final RegistryObject<Item> RICEITEM = ITEMS.register("rice",
             () -> new Item(new Item.Properties().tab(ItemInit.ModCreativeTab.BETTERTREES)));
 
+    public static final RegistryObject<Item> RICECLUMP = ITEMS.register("rice_clump",
+            () -> new Item(new Item.Properties().tab(ItemInit.ModCreativeTab.BETTERTREES)));
+
+    public static final RegistryObject<Item> RICEBALL = ITEMS.register("rice_ball",
+            () -> new Item(new Item.Properties().tab(ItemInit.ModCreativeTab.BETTERTREES)));
 
 
     public static final RegistryObject<Item> MARSHMELLOWSWORD = ITEMS.register("marshmellow_sword",

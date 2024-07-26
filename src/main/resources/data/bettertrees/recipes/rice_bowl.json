@@ -3,7 +3,7 @@
   "pattern": [
     "###",
     "###",
-    "###"
+    "### "
   ],
   "key": {
     "#": {
@@ -12,6 +12,6 @@
 
   },
   "result": {
-    "item": "bettertrees:rice_block"
+    "item": "bettertrees:rice_bowl"
   }
 }

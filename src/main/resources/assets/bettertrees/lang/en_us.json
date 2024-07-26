@@ -1,9 +1,15 @@
 {
   "itemGroup.bettertrees": "Better Trees Items",
 
-  "item.bettertrees.marshmellow": "Marsh Mellow",
 
+  "item.bettertrees.marshmellow": "Marsh Mellow",
   "item.bettertrees.rice_bowl": "Rice Bowl",
+  "item.bettertrees.rice": "Rice",
+  "item.bettertrees.rice_clump": "Rice Clump",
+  "item.bettertrees.rice_ball": "Rice Ball",
+
+
+
 
   "item.bettertrees.marshmellow_sword": "Marsh Mellow Sword",
 

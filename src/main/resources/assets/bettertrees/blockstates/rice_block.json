@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bettertrees:block/rice_block"
+    }
+  }
+}
